@@ -91,6 +91,8 @@ Apriori algorithm is a classical algorithm in data mining. It is used for mining
 [14] {celebrities_lifestyle,internet}          => {shopping}               0.146   0.840      1.861 147  
 [15] {celebrities_lifestyle,shopping}          => {socializing}            0.152   0.933      1.044 154
 ```
+## Reference
+* https://www.kaggle.com/miroslavsabo/young-people-survey/home
 
 ## License
 [The MIT License](http://opensource.org/licenses/MIT)
